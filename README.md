@@ -34,14 +34,14 @@ A project that combines **Azure's OCR API** and **OpenAI's GPT model** to extrac
 
 ---
 
+## 📜 License
+
+All my projects are licensed under the [MIT License](LICENSE), unless stated otherwise.
+
+---
+
 ## 📧 Contact
 
 Feel free to reach out for collaboration or questions:
 
 - Email: [tdjwalsh@hotmail.com](mailto:tdjwalsh@hotmail.com)
-
----
-
-## 📜 License
-
-All my projects are licensed under the [MIT License](LICENSE), unless stated otherwise.
