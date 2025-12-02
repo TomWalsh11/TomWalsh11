@@ -6,6 +6,9 @@ Hi there! I'm a passionate data scientist and machine learning enthusiast. My Gi
 
 ## 🔍 Featured Repositories
 
+### [**Shopify Stock Notifier**](https://github.com/TomWalsh11/shopify-stock-notifier)
+A Shopify stock monitoring tool that monitors product URLs from any Shopify store and automatically creates a GitHub issue when a given variant comes back in stock. Checks every 15 minutes via GitHub Actions.
+
 ### [**Salesforce Lead Deduplication**](https://github.com/TomWalsh11/salesforce-lead-deduplication)
 An Apex script for detecting and deleting duplicate leads in Salesforce, ensuring cleaner and more efficient lead management. Includes comprehensive testing and easy configuration for customization.
 
