@@ -6,6 +6,9 @@ Hi there! I'm a passionate data scientist and machine learning enthusiast. My Gi
 
 ## 🔍 Featured Repositories
 
+### [**Household Chores Manager Alexa**](https://github.com/TomWalsh11/alexa-chores-manager)
+A custom skill for Alexa that allows you to manage household chores with assignees, completion dates, and recurring cadences.
+
 ### [**Shopify Stock Notifier**](https://github.com/TomWalsh11/shopify-stock-notifier)
 A Shopify stock monitoring tool that monitors product URLs from any Shopify store and automatically creates a GitHub issue when a given variant comes back in stock. Checks every 15 minutes via GitHub Actions.
 
