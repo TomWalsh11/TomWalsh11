@@ -6,7 +6,7 @@ Hi there! I'm a passionate data scientist and machine learning enthusiast. My Gi
 
 ## 🔍 Featured Repositories
 
-### [**Household Chores Manager Alexa**](https://github.com/TomWalsh11/alexa-chores-manager)
+### [**Alexa Household Chores Manager**](https://github.com/TomWalsh11/alexa-chores-manager)
 A custom skill for Alexa that allows you to manage household chores with assignees, completion dates, and recurring cadences.
 
 ### [**Shopify Stock Notifier**](https://github.com/TomWalsh11/shopify-stock-notifier)
